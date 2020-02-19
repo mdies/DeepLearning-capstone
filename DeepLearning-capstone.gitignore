@@ -1,0 +1,9 @@
+# gitignore template for DeepLearning-capstone project
+#
+# Recommended: VisualStudio.gitignore
+
+# Ignore model files that are auto-generated
+first_model_v2.pt
+second_model_v2.pt
+history_first_model_v2.npz
+history_second_model_v2.npz
